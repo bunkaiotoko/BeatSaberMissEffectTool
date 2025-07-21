@@ -36,7 +36,8 @@ VideoIDにOBSの仮想カメラのカメラIDを入れます。
 
 # 使い方
 
-MissEffectTool.exeをダブルクリックして起動するだけ。  
+OBSの仮想カメラを開始して、  
+MissEffectTool.exeをダブルクリックして起動するだけです。  
   
 起動するとコンソールが立ち上がります。  
 WebSocket 接続に成功しました。とメッセージが出ていればWebSocketの設定は正しくされています。  
