@@ -1,0 +1,2 @@
+# BeatSaberMissEffectTool
+BeatSaber配信でバッドカット、ミスカットをしたときに画面上にエフェクトを出すツール。
